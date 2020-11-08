@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4f1744affe50e5cd3b4d0924838c996f",
+    "revision": "e2910d530f8ee86d02ff4dbff334e50f",
     "url": "/the-blank-blog/index.html"
   },
   {
-    "revision": "a73b8ca5ae32bed7ddbe",
+    "revision": "431ff841bf3ae255f171",
     "url": "/the-blank-blog/static/css/main.4b925db2.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/the-blank-blog/static/js/2.d5d7cd9b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a73b8ca5ae32bed7ddbe",
-    "url": "/the-blank-blog/static/js/main.3b546194.chunk.js"
+    "revision": "431ff841bf3ae255f171",
+    "url": "/the-blank-blog/static/js/main.4b6c53e8.chunk.js"
   },
   {
     "revision": "61a49ded7552b137b6f6",
